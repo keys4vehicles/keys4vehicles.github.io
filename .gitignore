@@ -19,3 +19,7 @@ gh-pages
 # Visual Studio Code
 /.vscode
 .history
+
+_site/
+node_modules/
+package-lock.json
