@@ -1,0 +1,68 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Grand Limousine",
+  "language": "en",
+  "home_page_url": "https://grandlimousine.netlify.app/",
+  "feed_url": "https://grandlimousine.netlify.app/feed/feed.json",
+  "description": "Limousine and car website template with grandlimousine 11ty",
+  "author": {
+    "name": "Creativitas",
+    "url": "https://www.hockeycomputindo.com/en/jamstack/"
+  },
+  "items": [{
+      "id": "https://grandlimousine.netlify.app/posts/singlepageapp/",
+      "url": "https://grandlimousine.netlify.app/posts/singlepageapp/",
+      "title": "Single Page App",
+      "content_html": "<p>The era of technology development with single page applications has reached its peak, and now many sites are switching to using it, and it is the main choice for developers when they need to create projects using this single page application.</p>\n<p>Many of the technologies developed including frameworks make it easy to implement creating modern websites, we can use React, Angular, Svelte with support for frameworks such as <a href=\"https://nextjs.org\">Next JS</a>, Gatsby JS, Remix, Sveltekit and various others.</p>\n<p>The advantage of implementing this technology is that site visitors no longer load each page, this improves the experience for site visitors, and makes your <a href=\"/posts/singlepageapp/\">limousine and car websites</a> faster and more powerful with SEO built in.</p>\n",
+      "date_published": "2022-12-22T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/staticsitegenerator/",
+      "url": "https://grandlimousine.netlify.app/posts/staticsitegenerator/",
+      "title": "Static Site Generator",
+      "content_html": "<p>Enhance your site with a static site generator for speed, stability and full power to support SEO and performance of your <a href=\"/posts/staticsitegenerator/\">limousine car website</a> with SSG.</p>\n<p>makes it easy to implement to quickly apply to your site creation project, the ease of working with markdown files makes for a better experience, and of course it is fully supported by auto SEO injection in it, so you only focus on the content of your articles and later it will automatically generate meta titles, descriptions, open graphs, to twitter cards for your site.</p>\n<p>We can use many technology on development progress, with jekyll ruby on rails, <a href=\"https://astro.build\">astro</a> and eleventy 11ty on nodejs.</p>\n",
+      "date_published": "2022-12-21T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/progresivewebapp/",
+      "url": "https://grandlimousine.netlify.app/posts/progresivewebapp/",
+      "title": "Progresive Web App",
+      "content_html": "<p>If you need to build a website that allows it to be installed on customers' devices, then using a progressive web application is the right choice for you.</p>\n<p>PWA Progresive Web Application technology allows your <a href=\"/posts/progresivewebapp/\">limousine car services website</a> visitors , to install on their devices, desktops, smartphones like Android and iOS applications, more perfect by using this technology, to provide an extraordinary experience for users.</p>\n<p>Include auto SEO injection and use modern technology of web development , microsoft tech with <a href=\"https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\">blazor webassembly WASM</a>, or use svelte with sapper.</p>\n",
+      "date_published": "2022-12-20T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/python-django/",
+      "url": "https://grandlimousine.netlify.app/posts/python-django/",
+      "title": "Python Django",
+      "content_html": "<p>Touch ease of work and stability by using technology from Python, present by Google Developers to support the creation of your limousine car website.</p>\n<p>With the <a href=\"https://www.djangoproject.com/\">django framework</a> it makes it easy for you to manage data in updating article content and so on, plus full support with auto SEO injection has been implemented in creating the perfect website for your <a href=\"/posts/python-django/\">limousine car business</a>.</p>\n",
+      "date_published": "2022-12-19T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/mobileweb/",
+      "url": "https://grandlimousine.netlify.app/posts/mobileweb/",
+      "title": "Mobile Website",
+      "content_html": "<p>We realize that nowadays many internet users are using their smartphones, so building and designing websites specifically for mobile smartphones will provide a better experience, visitors to your <a href=\"/posts/mobileweb/\">limousine car mobile website</a>, will find it easier to access information, with a special mobile UI, access your site is like using a mobile application.</p>\n<p>And we can use multiple technology with react, <a href=\"https://angular.io\">angular</a>, svelte, next , blazor, remix, jekyll, eleventy, astro , python django, flatfile cms , ionic, bootstrap or redesign your old website to be mobile web .</p>\n",
+      "date_published": "2022-12-17T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/helloworld/",
+      "url": "https://grandlimousine.netlify.app/posts/helloworld/",
+      "title": "your title in here",
+      "content_html": "<p>insert content article post in here</p>\n",
+      "date_published": "2022-12-17T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/flatfile/",
+      "url": "https://grandlimousine.netlify.app/posts/flatfile/",
+      "title": "Flatfile CMS",
+      "content_html": "<p>The best alternative to using flatfile technology to create super fast <a href=\"/posts/flatfile/\">limousine car websites</a> without a database connection, like a static site generator , flatfile cms gives you experience about working with fast websites in its use.</p>\n<p>Equipped with an admin panel backend to make it easier for you to work via a content management system, and SEO support plus the convenience of deploying to your cpanel or plesk hosting.</p>\n",
+      "date_published": "2022-12-17T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/seo/",
+      "url": "https://grandlimousine.netlify.app/posts/seo/",
+      "title": "Limousine SEO",
+      "content_html": "<p>Now is the time to build a site with full SEO, to support website performance in search results on Google, and with modern technology to be applied to further refine development needs.</p>\n<p>We can use modern technology</p>\n<ul>\n<li>static site generator with jekyll if you want work on ruby rails, or use <a href=\"https://11ty.dev\">eleventy 11ty</a> and astro work with node js.</li>\n<li>single page application website work with react ,remix, gatsby , <a href=\"https://nextjs.org\">next</a>, angular, svelte and blazor webassembly WASM</li>\n<li>flatfile and dynamic cms with python django , <a href=\"https://laravel.com\">laravel</a> php artisan, and flatfile cms.</li>\n</ul>\n<p>In the process of making it of course we will adjust the concept and structure to have full value to support <a href=\"/posts/seo/\">SEO</a>, after that we will test the performance on lighthouse, then process the auto SEO injection and apply the theme concept, and finally bring your site to life.</p>\n",
+      "date_published": "2022-12-15T00:00:00Z"
+    },{
+      "id": "https://grandlimousine.netlify.app/posts/headless/",
+      "url": "https://grandlimousine.netlify.app/posts/headless/",
+      "title": "Headless CMS",
+      "content_html": "<p>The need to work with content management systems in the modern era, so using a headless CMS is the most suitable solution for you.</p>\n<p>We can use a variety of modern technologies to implement such as react , angular, svelte, blazor, remix, next , gatsby , eleventy, jekyll , astro and later we can integrate it with this modern CMS for your ease in working on creating a <a href=\"/posts/headless/\">limousine car website</a>.</p>\n",
+      "date_published": "2022-12-15T00:00:00Z"
+    }
+  ]
+}
