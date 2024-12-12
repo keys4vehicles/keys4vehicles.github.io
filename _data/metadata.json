@@ -1,34 +1,42 @@
 {
-  "title": "Grand Limousine",
-  "url": "https://grandlimousine.netlify.app/",
+  "googlesiteverification": "4dtv9OQNf-WVMkxotvRSrDdwg1R02GjWZPMGy-TwK1",
+  "title": "West Sussex Car Locksmith | Fast & Reliable Services - Call Now: [07561657734]",
+  "url": "https://keys4vehicles.co.uk",
+  "email": "Keys4vehicles@gmail.com",
+  "tel": "07561657734",
   "language": "en",
-  "description": "Limousine and car website template with grandlimousine 11ty",
-  "info": "Modern Website Development",
-  "infotext": "Best limousine and car template themes for your transporation bussiness.built blast fast website with 11ty eleventy static site generator include with auto SEO injection.",
-  "solution": "Best Solutions for",
-  "web1": "Limousine website",
-  "web2": "Car services website",
-  "web3": "Party bus website",
-  "web4": "Transporation website",
-  "web5": "Rent car website",
-  "slogan": "Built Your website now",
-  "btn": "Deploy Website →",
-  "link": "https://www.hockeycomputindo.com/en/jamstack/",
-  "cover": "/img/car.svg",
-  "git": "https://github.com/mesinkasir/limocar11ty",
+  "description": "Keys 4 Vehicles Auto Locksmith",
+  "info": "Keys 4 Vehicles Auto Locksmith",
+  "infotext": "Relax with our locksmith services: 6-month guarantee, no call-out fee, affordable rates, and emergency assistance.",
+  "areas_covered_title": "Areas covered",
+  "area1": "Pulbrough",
+  "area2": "West sussex",
+  "area3": "Chichester", 
+  "area4": "Horsham", 
+  "area5": "Worthing", 
+  "area6": "Witterings", 
+  "area7": "Bognor Regis",
+  "area8": "Littlehampton",
+  "area9": "Arundel",
+  "area10": "Petworth",
+  "area11": "Crawley",
+  "slogan": "Emergency Auto Locksmith Services",
+  "btn": "Click here for Emergency Call →",
+  "link": "tel:07561657734",
+  "cover": "/img/stylish-elegant-couple-car-salon.jpg",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Keys4vehicles ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://grandlimousine.netlify.app/"
+    "id": "https://keys4vehicles.co.uk"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://grandlimousine.netlify.app/feed/feed.json"
+    "url": "https://keys4vehicles.co.uk/feed/feed.json"
   },
   "author": {
-    "name": "Creativitas",
-    "email": "axcora@gmail.com",
-    "url": "https://www.hockeycomputindo.com/en/jamstack/"
+    "name": "Keys4vehicles",
+    "email": "Keys4vehicles@gmail.com",
+    "url": "https://keys4vehicles.co.uk"
   }
 }
