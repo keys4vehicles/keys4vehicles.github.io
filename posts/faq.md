@@ -1,7 +1,7 @@
 ---
 title: FAQ
 description: Here are some of the frequently asked questions we get asked
-date: 2022-12-17
+date: 2024-12-11
 tags:
   - faq
 layout: layouts/post.njk
