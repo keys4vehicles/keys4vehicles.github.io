@@ -60,6 +60,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  // add cname
+  eleventyConfig.addPassthroughCopy("CNAME");
+
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
