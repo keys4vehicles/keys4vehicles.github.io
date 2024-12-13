@@ -9,13 +9,13 @@
 <link rel="stylesheet" href="{{ '/css/grandlimousine.css' | url }}">
 <meta name="generator" content="{{ eleventy.generator }}">
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H0TJ1FLT57"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{metadata.googleanalytics}}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-H0TJ1FLT57');
+  gtag('config', '{{metadata.googleanalytics}}');
 </script>
 <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
 <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
